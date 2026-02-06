@@ -10,12 +10,12 @@ The goal of this dashboard is to solve a common problem for job seekers: informa
 ### 1. Main Page: High-Level Market View
 This is the main overview where I practiced creating key KPIs. It shows total job counts, median salaries, and overall market dynamics across the dataset's timeframe.
 
-![Page 1](/images/Page%201.gif)
+![Page 1](/Resources/Page_1.gif)
 
 ### 2. Deep Dive: Job Title Drill Through
 One of the key features I wanted to learn was the **Drill Through** functionality. I set it up so users can select a specific profession on the main page and navigate to a detailed view for that specific role.
 
-![Page 1](/images/Page%202.gif)
+![Page 1](/Resources/Page_2.gif)
 
 ---
 
